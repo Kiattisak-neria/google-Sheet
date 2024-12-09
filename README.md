@@ -5,7 +5,7 @@
 
 ## <a name="content"></a> สารบัญ
 1. [รูปแบบของโค้ด](#code)
-2. [การสร้าง Apps Script](#code)
+2. [การสร้าง Apps Script](#code2)
 <br/>
 
 ## <a name="code"></a> รูปแบบของโค้ด
