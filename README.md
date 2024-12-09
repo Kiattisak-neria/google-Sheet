@@ -5,7 +5,7 @@
 
 ## <a name="content"></a> สารบัญ
 1. [รูปแบบของโค้ด](#code)
-2. [การสร้าง Apps Script](#Apps)
+2. [การสร้าง Apps Script](#AppsS)
 <br/>
 
 ## <a name="code"></a> รูปแบบของโค้ด
@@ -28,7 +28,7 @@
 [กลับไปยังสารบัญ](#content)
 <br/>
 
-## <a name="Apps"></a> การสร้าง Apps Script
+## <a name="AppsS"></a> การสร้าง Apps Script
 1. ทำการเปิด Google Drive เลือกไปที่ ใหม่>เพิ่มเติม>สคริปต์ของ Google Apps
 <p align="center">
 <img src=https://github.com/user-attachments/assets/f10a5365-44a3-4977-b58d-9c6f0af26329>
