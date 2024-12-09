@@ -4,3 +4,15 @@
 <br/>
 
 ## <a name="content"></a> สารบัญ
+1. [รูปแบบของโค้ด](#code)
+
+
+## <a name="code"></a> รูปแบบของโค้ด
+"#include <Wire.h>
+#include<WiFi.h>
+#include<PubSubClient.h>
+#include<NTPClient.h>
+#include<WiFiUdp.h>
+#include <HTTPClient.h>
+#include <LiquidCrystal_I2C.h>
+#include <esp_sleep.h>"
