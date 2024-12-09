@@ -50,5 +50,4 @@
 <img src=https://github.com/user-attachments/assets/d696e300-3249-45c9-b80a-e45bb60ac846>
 
 [กลับไปยังสารบัญ](#content)
-
 <br/>
