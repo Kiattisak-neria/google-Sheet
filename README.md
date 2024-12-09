@@ -5,7 +5,7 @@
 
 ## <a name="content"></a> สารบัญ
 1. [รูปแบบของโค้ด](#code)
-2. [การสร้าง Apps Script](#Apps Script)
+2. [การสร้าง Apps Script](#AppsScript)
 <br/>
 
 ## <a name="code"></a> รูปแบบของโค้ด
@@ -26,7 +26,7 @@
 ในฟังชันข้อที่ 4 ทำการนำ url รวมกับข้อมูลโดยการนำ url ที่ได้มากจาก Apps Script แล้วเพิ่ม ? จากนั้นเพิ่มชื่อของข้อมูลตามด้วย = ตามด้วยข้อมูลที่ต้องการส่ง
 <br/>
 
-## <a name="Apps Script"></a> การสร้าง Apps Script
+## <a name="AppsScript"></a> การสร้าง Apps Script
 1. ทำการเปิด Google Drive เลือกไปที่ ใหม่>เพิ่มเติม>สคริปต์ของ Google Apps
 <p align="center">
 <img src=https://github.com/user-attachments/assets/f10a5365-44a3-4977-b58d-9c6f0af26329>
