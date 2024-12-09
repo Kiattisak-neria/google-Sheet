@@ -28,7 +28,7 @@
 [กลับไปยังสารบัญ](#content)
 <br/>
 
-## <a name="code2"></a> รูปแบบของโค้ด
+## <a name="code2"></a> การสร้าง Apps Script
 1. ทำการเปิด Google Drive เลือกไปที่ ใหม่>เพิ่มเติม>สคริปต์ของ Google Apps
 <p align="center">
 <img src=https://github.com/user-attachments/assets/f10a5365-44a3-4977-b58d-9c6f0af26329>
