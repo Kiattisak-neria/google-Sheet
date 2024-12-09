@@ -8,11 +8,10 @@
 
 
 ## <a name="code"></a> รูปแบบของโค้ด
-"#include <Wire.h>
-#include<WiFi.h>
-#include<PubSubClient.h>
-#include<NTPClient.h>
-#include<WiFiUdp.h>
-#include <HTTPClient.h>
-#include <LiquidCrystal_I2C.h>
-#include <esp_sleep.h>"
+ไลบรารี่ที่จำเป็นต้องใช้ในการส่งข้อมูขึ้น Google Sheet มีดังนี้
+1. WiFi เพื่อใช้ในการเชื่อมต่อ internet
+2. HTTPClient เพื่อใช้ในการส่งข้อมูลขึ้น Google Sheet
+
+ฟังชัน
+1. WiFi.begin("ชื่อ WiFi","รหัส WiFi") ใช้ในการเชื่อต่อ WiFi
+2. while(WiFi.status() != WL_CONNECTED){} เพื่อใช้ตรวจสอบการเชื่อมต่อ WiFi
