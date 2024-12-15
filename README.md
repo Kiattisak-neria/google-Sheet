@@ -47,7 +47,8 @@
 
 3. เมื่อเสร็จสิ้นการเขียนโค้ดจะสามารถทำให้ Apps Script สามารถใช้งานได้โดยเลือกดังต่อไปนี้ การทำให้ใช้งนได้ > จัดการทำให้ใช้งานได้ > สร้างการทำให้ใช้งานได้ > ฟันเฟือง > เว็บแอป > การทำให้ใช้งานได้ > ให้สิทธิ์เข้าถึง > เลือก email > advanced > go to ชื่อโครงการ > Allow > จากนั้นจะได้ url เพื่อนำไปใช้ในการเขียนโค้ด
 <p align="center">
-<img src=https://github.com/user-attachments/assets/d696e300-3249-45c9-b80a-e45bb60ac846>
+<img src=https://github.com/user-attachments/assets/c4bfd81d-ab81-46f5-8638-119f4813de9f>
+
 
 [กลับไปยังสารบัญ](#content)
 <br/>
